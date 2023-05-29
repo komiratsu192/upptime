@@ -4,7 +4,9 @@ repo: upptime # The name of this repository
 
 sites:
   - name: WireGuard-Tokyo
-    url: http://35.78.238.65:51821/
+    check: "tcp-ping"
+    url: 35.78.238.65
+    port: 51821
     expectedStatusCodes:
       - 200
       - 201
