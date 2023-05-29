@@ -5,13 +5,18 @@ repo: upptime # The name of this repository
 sites:
   - name: WireGuard-Tokyo
     url: http://35.78.238.65:51821/
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
+      - 304
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org  custom domain
   baseUrl: komiratsu192/upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://static-00.iconduck.com/assets.00/wireguard-icon-2048x2048-6w5jtt33.png
   name: DNHS VPN Services
   introTitle: "**WireGuard** services with AWS. For DNHS." # (표시할 텍스트)[하이퍼링크]
   introMessage: Server location is Tokyo, Japan. 24/7. DNS Server is AdGuard-DNS
