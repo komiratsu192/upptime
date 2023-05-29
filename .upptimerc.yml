@@ -17,6 +17,7 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org  custom domain
+  theme: ocean
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: DNHS VPN Services
@@ -24,7 +25,7 @@ status-website:
   introMessage: Server location is Tokyo, Japan. 24/7. DNS Server is AdGuard-DNS
   navbar:
     - title: Status
-      href: /
+      href: https://komiratsu192.github.io/upptime/
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
   robotsText: "User-agent: * \n Disallow: /"
