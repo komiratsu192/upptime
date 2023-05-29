@@ -1,20 +1,20 @@
 [
   {
-    "name": "DuckDuckGo",
-    "url": "https://duckduckgo.com",
-    "icon": "https://icons.duckduckgo.com/ip3/duckduckgo.com.ico",
-    "slug": "duck-duck-go",
+    "name": "WireGuard-Tokyo",
+    "url": "http://35.78.238.65:51821/",
+    "icon": "https://icons.duckduckgo.com/ip3/35.78.238.65.ico",
+    "slug": "wire-guard-tokyo",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 54,
-    "timeDay": 54,
-    "timeWeek": 54,
-    "timeMonth": 54,
-    "timeYear": 54,
+    "time": 319,
+    "timeDay": 319,
+    "timeWeek": 319,
+    "timeMonth": 319,
+    "timeYear": 319,
     "dailyMinutesDown": {}
   }
 ]
