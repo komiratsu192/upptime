@@ -16,7 +16,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org  custom domain
   baseUrl: komiratsu192/upptime
-  logoUrl: https://static-00.iconduck.com/assets.00/wireguard-icon-2048x2048-6w5jtt33.png
+  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: DNHS VPN Services
   introTitle: "**WireGuard** services with AWS. For DNHS." # (표시할 텍스트)[하이퍼링크]
   introMessage: Server location is Tokyo, Japan. 24/7. DNS Server is AdGuard-DNS
